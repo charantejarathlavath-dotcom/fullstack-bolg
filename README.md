@@ -1,2 +1,4 @@
-# fullstack-bolg
-fullstack-bolg
+node_modules
+blog.db
+.env
+*.log
